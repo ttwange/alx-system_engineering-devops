@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-echo ufnweufnwe
-=======
-echo Holberton School > "\*\\\'\"Best School\"\'\\\*$\?\*\*\*\*\*:)"
->>>>>>> 4b3dbe0939e94d75b619b6a79c59f4a817d93083
+echo Holberton School > '\*\\'"'"'"Best School"\'"'"'\\*$\?\*\*\*\*\*:)'
